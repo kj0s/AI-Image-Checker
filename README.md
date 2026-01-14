@@ -4,3 +4,5 @@ AI has some characteristic traits in image generation capacity. it introduces ra
 1. abnormal pixel correlations
 2. repeating frequency patterns
 3. inconsistencies in high-frequency detail—that differ from those produced by real camera sensors
+
+This model aims to accurately tell an AI generated image from an organic image with a level of certainty.
